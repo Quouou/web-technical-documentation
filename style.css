@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    
+}
+html, body { 
+    height: 100%; 
+}
+.left {
+    
+    width: 20%;
+    height: 100%;
+    float: left;
+    background-color: #9E7676;
+}
+.middle{
+    width: 100%;
+    height: 100%;
+    background-color: #FFF8EA;
+}
+
+.leftMargin{
+    margin-top: 30%;
+}
+.h2{
+    margin-top: 10%;
+    margin-left: 5%;
+}
